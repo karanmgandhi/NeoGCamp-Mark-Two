@@ -7,4 +7,7 @@
 - Highscores
 - Score tracking, +1 for correct and -1 for incorrect Answers
 
-*Do leave a feedback!*
+ In order to test the quiz, please click play. -> [Play] (https://replit.com/@karanmgandhi/markTwo?embed=1&output=1/)
+
+ 
+ *Do leave a feedback!*
