@@ -6,4 +6,5 @@
 - Trigger to play or exit at various points
 - Highscores
 - Score tracking, +1 for correct and -1 for incorrect Answers
-- Do leave a feedback!
+
+*Do leave a feedback!*
